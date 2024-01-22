@@ -1,5 +1,6 @@
 # Run-an-application-in-the-Docker-container-built-from-docker-image
 SITUATION: Create and submit a docker file which would have worked docker build and it should a docker images which we could test out.
+![image](https://github.com/shaikshaz/Run-an-application-in-the-Docker-container-built-from-docker-image-/assets/154241222/cb917b2d-57e0-4608-95d3-c94ac7a47bdf)
 
 TASK: Here the task to create an image for a python flask application with app.py and requirements.txt for dependencies and to build and run the container image with the port number 3000.Push the image to the docker hub.
 
